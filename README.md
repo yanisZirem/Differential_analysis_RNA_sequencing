@@ -1,11 +1,10 @@
-TD RNA-seq – Analyse Différentielle et Enrichissement Fonctionnel  
-## TCGA-COAD (Colon Adenocarcinoma)
+## TD RNA-seq – Analyse Différentielle et Enrichissement Fonctionnel  
 
-**Université de Lille**  
+# Université de Lille  
 
-**Responsable pédagogique :** Yanis Zirem  
-**E-mail :** yanis.zirem@univ-lille.fr  
-**Niveau :** Master – Bioinformatique / Biologie computationnelle 
+Responsable pédagogique : Yanis Zirem  
+E-mail : yanis.zirem@univ-lille.fr  
+Niveau : Master – Bioinformatique / Biologie computationnelle  
 ---
 
 #  Contexte scientifique
